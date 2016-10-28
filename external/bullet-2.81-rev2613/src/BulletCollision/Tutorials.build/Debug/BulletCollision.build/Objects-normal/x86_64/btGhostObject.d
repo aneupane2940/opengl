@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/CollisionDispatch/btGhostObject.cpp \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/CollisionDispatch/btGhostObject.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/CollisionDispatch/btCollisionObject.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/LinearMath/btTransform.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/LinearMath/btMatrix3x3.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/LinearMath/btVector3.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/LinearMath/btScalar.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/LinearMath/btMinMax.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/LinearMath/btAlignedAllocator.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/LinearMath/btQuaternion.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/LinearMath/btQuadWord.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/LinearMath/btMotionState.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/LinearMath/btAlignedObjectArray.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/CollisionDispatch/btCollisionWorld.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btDispatcher.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/LinearMath/btTransformUtil.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/CollisionDispatch/btManifoldResult.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btConvexShape.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btCollisionShape.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btCollisionMargin.h \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/bullet-2.81-rev2613/src/LinearMath/btAabbUtil2.h
