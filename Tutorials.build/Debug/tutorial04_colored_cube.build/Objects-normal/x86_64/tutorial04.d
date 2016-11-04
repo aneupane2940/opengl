@@ -76,6 +76,8 @@ dependencies: \
   /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/glm-0.9.7.1/glm/integer.hpp \
   /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/glm-0.9.7.1/glm/detail/func_integer.hpp \
   /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/glm-0.9.7.1/glm/detail/func_integer.inl \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/./common/controls.hpp \
+  /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/./common/objloader.hpp \
   /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/glm-0.9.7.1/glm/gtc/matrix_transform.hpp \
   /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/glm-0.9.7.1/glm/gtc/../gtc/constants.hpp \
   /Users/achyutneupane/Desktop/ogl-OpenGL-tutorial/external/glm-0.9.7.1/glm/gtc/constants.inl \
